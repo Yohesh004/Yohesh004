@@ -47,14 +47,6 @@
 
 ---
 
-## 🏆 Achievements  
-- 🛒 **Patent**: Smart Trolley Project (App. No. 202441065977 A)  
-- ☁️ **Certified**: AWS Machine Learning Foundation  
-- ☕ **Certified**: NPTEL Java Programming (Silver Badge)  
-- 🎉 Volunteered at **Milan**, SRM Tech Fest
-
----
-
 ## 📊 GitHub Stats  
 
 ![Yohesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yohesh004&show_icons=true&theme=tokyonight)  
